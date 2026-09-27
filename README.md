@@ -1,4 +1,4 @@
-# Cardan-Shaft-3D-Model-SolidWorks
+# Cardan Shaft 3D CAD Model: SolidWorks
 
 **Manipal Institute of Technology | SolidWorks CAD**
 
@@ -19,10 +19,6 @@ universal joint mechanism.
 | `P5.SLDPRT` | Part | Component 5 |
 | `spr.SLDPRT` | Part | Spider / cross joint |
 
-## How to open
-1. Open `new cardonshaft.SLDASM` in SolidWorks 2024 or later
-2. All part files must be in the same directory as the assembly file
-3. SolidWorks will auto-resolve the part references on load
 
 ## Tools
 SolidWorks 2024
